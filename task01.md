@@ -12,7 +12,10 @@
 1. 用bootstrap完成响应式网页的制作.
 2. 网页内的所有动态效果暂时没有要求.
 3. 允许自己修改设计稿,但设计稿的样式以及效果不能与原图有较大出入.
+<hr>
 
+#### 资源
+[青春长大psd](https://pan.baidu.com/s/17jZXev_WO9QkFYfmJjplTQ) 密码:**pble**
 
 
  
