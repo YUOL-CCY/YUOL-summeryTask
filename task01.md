@@ -5,6 +5,7 @@
 &emsp;&emsp;本次暑期任务的质量决定了web组正式期的成员,所以我希望大家可以认真完成暑期的每一项任务.<br>
 &emsp;&emsp;在暑期培训的时候,大家都已经了解什么是bootstrap,什么是jquery.本次任务主要与bootstrap有关.
 <hr>
+
 ### 第一周任务<br>
 &emsp;&emsp;bootstrap是一个写响应式网页的框架,所以第一周的任务就是用bootsrap写响应式网页.<br>
 
