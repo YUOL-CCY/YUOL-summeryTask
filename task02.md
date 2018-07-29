@@ -10,7 +10,7 @@
  1. 下拉导航栏
  ![下拉导航栏](https://github.com/YUOL-CCY/YUOL-summeryTask/blob/master/images/1.jpg)
  2. 首页轮播图特效
- ![首页轮播图](https://github.com/YUOL-CCY/YUOL-summeryTask/blob/master/images/2.jpg)
+ ![首页轮播图](https://github.com/YUOL-CCY/YUOL-summeryTask/blob/master/images/2.png)
  3. 新闻轮播图特效
  ![新闻轮播图](https://github.com/YUOL-CCY/YUOL-summeryTask/blob/master/images/3.jpg)
  
