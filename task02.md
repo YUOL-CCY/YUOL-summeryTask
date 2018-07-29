@@ -8,14 +8,17 @@
 ### 第二周任务
 完成上周页面的所有动态效果
  1. 下拉导航栏
+
  ![下拉导航栏](https://github.com/YUOL-CCY/YUOL-summeryTask/blob/master/images/1.jpg)
  <br>
 
  2. 首页轮播图特效
+
  ![首页轮播图](https://github.com/YUOL-CCY/YUOL-summeryTask/blob/master/images/2.png)
  <br>
 
  3. 新闻轮播图特效
+ 
  ![新闻轮播图](https://github.com/YUOL-CCY/YUOL-summeryTask/blob/master/images/3.jpg)
  <br>
 
