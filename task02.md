@@ -12,6 +12,7 @@
  2. 轮播图特效
  ![轮播图](https://github.com/YUOL-CCY/YUOL-summeryTask/blob/master/images/2.jpg)
  <br>
+ 
  #### 任务要求
  可以使用jquery完成特效.
 
